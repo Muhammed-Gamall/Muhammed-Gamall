@@ -12,9 +12,6 @@
 
 I'm Mohamed Gamal from Egypt. A highly motivated .Net developer with a Bachelor's degree in Computer Science From Minya University.
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
-
-
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohamed-gamal-ab4593232/" target="_blank"><img src="https://img.shields.io/badge/Mohamed%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -24,6 +21,17 @@ I'm Mohamed Gamal from Egypt. A highly motivated .Net developer with a Bachelor'
 
 
 ### 🛠 &nbsp;Tech Skills
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dot-net&logoColor=512BD4)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)&nbsp;
+![LINQ](https://img.shields.io/badge/-LINQ-512BD4?style=flat)&nbsp;
+![c++](https://img.shields.io/badge/-c++%20-05122A?style=flat&logo=c++)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
