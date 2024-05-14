@@ -22,6 +22,7 @@ I'm Mohamed Gamal from Egypt. A highly motivated .Net developer with a Bachelor'
 
 ### 🛠 &nbsp;Tech Skills
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-%23F68D2E?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dot-net&logoColor=512BD4)&nbsp;
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)&nbsp;
