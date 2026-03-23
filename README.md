@@ -10,7 +10,7 @@
 </p> 
 <h3>🚀 About Me</h3> 
 
-I'm Mohamed Gamal from Egypt. A highly motivated .Net developer with a Bachelor's degree in Computer Science From Minya University.
+I'm Mohamed Gamal from Egypt, specialized in backend development using ASP.NET and SQL Server. with expertise in these technologies,I have strong foundation in building robust and scalable backend solutions,I'm eager to join a team of.
 
 ### Connect with Me :
 
